@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Practical Quiz</string>
+    <string name="tvname">Name:</string>
+    <string name="tvage">Age</string>
+    <string name="tvClass">Class:</string>
+    <string name="btnsave">Save</string>
+
+    <string-array name="Spinner_item">
+        <item>W67K</item>
+        <item>W67C</item>
+        <item>W67J</item>
+        <item>W67l</item>
+    </string-array>
+</resources>
